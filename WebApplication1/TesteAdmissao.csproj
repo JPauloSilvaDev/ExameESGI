@@ -176,7 +176,7 @@
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Functions\Class1.cs" />
+    <Compile Include="Functions\Functions.cs" />
     <Compile Include="ListarPessoas.aspx.cs">
       <DependentUpon>ListarPessoas.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
